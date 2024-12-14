@@ -1,0 +1,14 @@
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\net8.0\CalculadoraPOO.exe
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\net8.0\CalculadoraPOO.deps.json
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\net8.0\CalculadoraPOO.runtimeconfig.json
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\net8.0\CalculadoraPOO.dll
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\bin\Debug\net8.0\CalculadoraPOO.pdb
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\CalculadoraPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\CalculadoraPOO.AssemblyInfoInputs.cache
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\CalculadoraPOO.AssemblyInfo.cs
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\CalculadoraPOO.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\CalculadoraPOO.dll
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\refint\CalculadoraPOO.dll
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\CalculadoraPOO.pdb
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\CalculadoraPOO.genruntimeconfig.cache
+C:\Users\Gusta\source\repos\CalculadoraPOO\CalculadoraPOO\obj\Debug\net8.0\ref\CalculadoraPOO.dll
