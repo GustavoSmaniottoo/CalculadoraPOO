@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f3a4ed2351262e6707f051b871ffcf1658c9cc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculadoraPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
